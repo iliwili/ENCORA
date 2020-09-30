@@ -31,9 +31,15 @@ zin = 'De kat krabt de krollen van de trap.'
 # print(zin.find('a', index_van))
 
 # NUMBERS
-getal = 57
-print(str(getal))
+# getal = 57
+# print(str(getal))
 
-float_getal = float(390.8) 
-print(int(float_getal))
-print(int(390.2))
+# float_getal = float(390.8) 
+# print(int(float_getal))
+# print(int(390.2))
+
+string_getal1 = "12"
+string_getal2 = "5"
+
+verschil_string_getallen = int(string_getal1) - int(string_getal2)
+print(verschil_string_getallen)
