@@ -1,0 +1,25 @@
+﻿<Window x:Class="les3.CelsiusFarenheit"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:les3"
+        mc:Ignorable="d"
+        Title="CelsiusFarenheit" Height="450" Width="800">
+    <Grid VerticalAlignment="Center" Height="200">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Row="0" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center" x:Name="textCelsius"></TextBlock>
+        <TextBlock Grid.Row="0" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center" x:Name="textFarenHeit"></TextBlock>
+
+        <Button Grid.Row="1" Grid.Column="0" VerticalAlignment="Top" HorizontalAlignment="Center" Height="50" Width="200" Click="minusOne">- 1</Button>
+        <Button Grid.Row="1" Grid.Column="1" VerticalAlignment="Top" HorizontalAlignment="Center" Height="50" Width="200" Click="plusOne">+ 1</Button>
+    </Grid>
+</Window>

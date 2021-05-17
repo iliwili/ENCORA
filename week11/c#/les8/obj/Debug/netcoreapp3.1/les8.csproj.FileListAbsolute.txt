@@ -1,0 +1,13 @@
+D:\ENCORA\week11\c#\les8\obj\Debug\netcoreapp3.1\les8.csprojAssemblyReference.cache
+D:\ENCORA\week11\c#\les8\obj\Debug\netcoreapp3.1\les8.AssemblyInfoInputs.cache
+D:\ENCORA\week11\c#\les8\obj\Debug\netcoreapp3.1\les8.AssemblyInfo.cs
+D:\ENCORA\week11\c#\les8\obj\Debug\netcoreapp3.1\les8.csproj.CoreCompileInputs.cache
+D:\ENCORA\week11\c#\les8\bin\Debug\netcoreapp3.1\les8.exe
+D:\ENCORA\week11\c#\les8\bin\Debug\netcoreapp3.1\les8.deps.json
+D:\ENCORA\week11\c#\les8\bin\Debug\netcoreapp3.1\les8.runtimeconfig.json
+D:\ENCORA\week11\c#\les8\bin\Debug\netcoreapp3.1\les8.runtimeconfig.dev.json
+D:\ENCORA\week11\c#\les8\bin\Debug\netcoreapp3.1\les8.dll
+D:\ENCORA\week11\c#\les8\bin\Debug\netcoreapp3.1\les8.pdb
+D:\ENCORA\week11\c#\les8\obj\Debug\netcoreapp3.1\les8.dll
+D:\ENCORA\week11\c#\les8\obj\Debug\netcoreapp3.1\les8.pdb
+D:\ENCORA\week11\c#\les8\obj\Debug\netcoreapp3.1\les8.genruntimeconfig.cache

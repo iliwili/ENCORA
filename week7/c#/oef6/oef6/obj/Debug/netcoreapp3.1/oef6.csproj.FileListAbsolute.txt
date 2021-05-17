@@ -1,0 +1,13 @@
+D:\ENCORA\week7\c#\oef6\oef6\bin\Debug\netcoreapp3.1\oef6.exe
+D:\ENCORA\week7\c#\oef6\oef6\bin\Debug\netcoreapp3.1\oef6.deps.json
+D:\ENCORA\week7\c#\oef6\oef6\bin\Debug\netcoreapp3.1\oef6.runtimeconfig.json
+D:\ENCORA\week7\c#\oef6\oef6\bin\Debug\netcoreapp3.1\oef6.runtimeconfig.dev.json
+D:\ENCORA\week7\c#\oef6\oef6\bin\Debug\netcoreapp3.1\oef6.dll
+D:\ENCORA\week7\c#\oef6\oef6\bin\Debug\netcoreapp3.1\oef6.pdb
+D:\ENCORA\week7\c#\oef6\oef6\obj\Debug\netcoreapp3.1\oef6.csprojAssemblyReference.cache
+D:\ENCORA\week7\c#\oef6\oef6\obj\Debug\netcoreapp3.1\oef6.AssemblyInfoInputs.cache
+D:\ENCORA\week7\c#\oef6\oef6\obj\Debug\netcoreapp3.1\oef6.AssemblyInfo.cs
+D:\ENCORA\week7\c#\oef6\oef6\obj\Debug\netcoreapp3.1\oef6.csproj.CoreCompileInputs.cache
+D:\ENCORA\week7\c#\oef6\oef6\obj\Debug\netcoreapp3.1\oef6.dll
+D:\ENCORA\week7\c#\oef6\oef6\obj\Debug\netcoreapp3.1\oef6.pdb
+D:\ENCORA\week7\c#\oef6\oef6\obj\Debug\netcoreapp3.1\oef6.genruntimeconfig.cache

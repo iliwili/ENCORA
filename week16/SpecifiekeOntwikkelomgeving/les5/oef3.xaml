@@ -1,0 +1,34 @@
+﻿<Window x:Class="les5.oef3"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:les5"
+        mc:Ignorable="d"
+        Title="oef3" Height="450" Width="650">
+    <StackPanel Margin="20">
+        <ListBox x:Name="movieListBox" Height="150"></ListBox>
+        <Button Width="50" Height="25" HorizontalAlignment="Left" Margin="0, 10, 0, 0" Click="DeleteMovie">Delete</Button>
+
+        <Grid Margin="0, 10, 0, 0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <TextBox Grid.Column="0"  FontSize="13" Padding="4" Width="80" x:Name="textNaam"></TextBox>
+            <TextBox Grid.Column="1" FontSize="13" Padding="4" Width="80" x:Name="textRelease"></TextBox>
+            <TextBox Grid.Column="2" FontSize="13" Padding="4" Width="80" x:Name="textGenre"></TextBox>
+            <TextBox Grid.Column="3" FontSize="13" Padding="4" Width="80" x:Name="textRegisseur"></TextBox>
+            <TextBox Grid.Column="4" FontSize="13" Padding="4" Width="80" x:Name="textSpeelduur"></TextBox>
+
+            <Button Grid.Column="5" FontSize="13" Margin="2, 0, 0, 0" Click="AddMovie">Add</Button>
+            <Button Grid.Column="6" FontSize="13" Margin="5, 0, 0, 0" IsEnabled="False">Update</Button>
+        </Grid>
+    </StackPanel>
+</Window>

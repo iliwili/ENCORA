@@ -1,0 +1,16 @@
+D:\ENCORA\week12\SpecifiekeOntwikkelomgeving\les1\bin\Debug\net5.0\les1.exe
+D:\ENCORA\week12\SpecifiekeOntwikkelomgeving\les1\bin\Debug\net5.0\les1.deps.json
+D:\ENCORA\week12\SpecifiekeOntwikkelomgeving\les1\bin\Debug\net5.0\les1.runtimeconfig.json
+D:\ENCORA\week12\SpecifiekeOntwikkelomgeving\les1\bin\Debug\net5.0\les1.runtimeconfig.dev.json
+D:\ENCORA\week12\SpecifiekeOntwikkelomgeving\les1\bin\Debug\net5.0\les1.dll
+D:\ENCORA\week12\SpecifiekeOntwikkelomgeving\les1\bin\Debug\net5.0\ref\les1.dll
+D:\ENCORA\week12\SpecifiekeOntwikkelomgeving\les1\bin\Debug\net5.0\les1.pdb
+D:\ENCORA\week12\SpecifiekeOntwikkelomgeving\les1\obj\Debug\net5.0\les1.csprojAssemblyReference.cache
+D:\ENCORA\week12\SpecifiekeOntwikkelomgeving\les1\obj\Debug\net5.0\les1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ENCORA\week12\SpecifiekeOntwikkelomgeving\les1\obj\Debug\net5.0\les1.AssemblyInfoInputs.cache
+D:\ENCORA\week12\SpecifiekeOntwikkelomgeving\les1\obj\Debug\net5.0\les1.AssemblyInfo.cs
+D:\ENCORA\week12\SpecifiekeOntwikkelomgeving\les1\obj\Debug\net5.0\les1.csproj.CoreCompileInputs.cache
+D:\ENCORA\week12\SpecifiekeOntwikkelomgeving\les1\obj\Debug\net5.0\les1.dll
+D:\ENCORA\week12\SpecifiekeOntwikkelomgeving\les1\obj\Debug\net5.0\ref\les1.dll
+D:\ENCORA\week12\SpecifiekeOntwikkelomgeving\les1\obj\Debug\net5.0\les1.pdb
+D:\ENCORA\week12\SpecifiekeOntwikkelomgeving\les1\obj\Debug\net5.0\les1.genruntimeconfig.cache

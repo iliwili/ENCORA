@@ -1,0 +1,13 @@
+D:\ENCORA\week7\c#\AppLes1\AppLes1\bin\Debug\netcoreapp3.1\AppLes1.exe
+D:\ENCORA\week7\c#\AppLes1\AppLes1\bin\Debug\netcoreapp3.1\AppLes1.deps.json
+D:\ENCORA\week7\c#\AppLes1\AppLes1\bin\Debug\netcoreapp3.1\AppLes1.runtimeconfig.json
+D:\ENCORA\week7\c#\AppLes1\AppLes1\bin\Debug\netcoreapp3.1\AppLes1.runtimeconfig.dev.json
+D:\ENCORA\week7\c#\AppLes1\AppLes1\bin\Debug\netcoreapp3.1\AppLes1.dll
+D:\ENCORA\week7\c#\AppLes1\AppLes1\bin\Debug\netcoreapp3.1\AppLes1.pdb
+D:\ENCORA\week7\c#\AppLes1\AppLes1\obj\Debug\netcoreapp3.1\AppLes1.csprojAssemblyReference.cache
+D:\ENCORA\week7\c#\AppLes1\AppLes1\obj\Debug\netcoreapp3.1\AppLes1.AssemblyInfoInputs.cache
+D:\ENCORA\week7\c#\AppLes1\AppLes1\obj\Debug\netcoreapp3.1\AppLes1.AssemblyInfo.cs
+D:\ENCORA\week7\c#\AppLes1\AppLes1\obj\Debug\netcoreapp3.1\AppLes1.csproj.CoreCompileInputs.cache
+D:\ENCORA\week7\c#\AppLes1\AppLes1\obj\Debug\netcoreapp3.1\AppLes1.dll
+D:\ENCORA\week7\c#\AppLes1\AppLes1\obj\Debug\netcoreapp3.1\AppLes1.pdb
+D:\ENCORA\week7\c#\AppLes1\AppLes1\obj\Debug\netcoreapp3.1\AppLes1.genruntimeconfig.cache

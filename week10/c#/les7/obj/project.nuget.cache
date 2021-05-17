@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "keyU8YRWEZfUj3Ba1FlCO8qbkjBIJwDaeL79plbk5AWaygQUEmqXAApZyT68RNp8G0UpnIiUf74x3XAEbbRcng==",
+  "success": true,
+  "projectFilePath": "D:\\ENCORA\\week10\\c#\\les7\\les7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ilias\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\ilias\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

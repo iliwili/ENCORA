@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OFnwsqwejwaMHAQBSwx6aTsu0W4T/9EgwMXaUqKsFu8laexJ72v+Z5s3fW5L2wwroCyKhlf8s5V4lgEV4Wd3MQ==",
+  "success": true,
+  "projectFilePath": "D:\\ENCORA\\week14\\Gegevensbeheer en -beveiliging\\les3\\les3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ilias\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+D:\ENCORA\week13\SpecifiekeOntwikkelomgeving\les2\bin\Debug\netcoreapp3.1\les2.exe
+D:\ENCORA\week13\SpecifiekeOntwikkelomgeving\les2\bin\Debug\netcoreapp3.1\les2.deps.json
+D:\ENCORA\week13\SpecifiekeOntwikkelomgeving\les2\bin\Debug\netcoreapp3.1\les2.runtimeconfig.json
+D:\ENCORA\week13\SpecifiekeOntwikkelomgeving\les2\bin\Debug\netcoreapp3.1\les2.runtimeconfig.dev.json
+D:\ENCORA\week13\SpecifiekeOntwikkelomgeving\les2\bin\Debug\netcoreapp3.1\les2.dll
+D:\ENCORA\week13\SpecifiekeOntwikkelomgeving\les2\bin\Debug\netcoreapp3.1\les2.pdb
+D:\ENCORA\week13\SpecifiekeOntwikkelomgeving\les2\obj\Debug\netcoreapp3.1\les2.csprojAssemblyReference.cache
+D:\ENCORA\week13\SpecifiekeOntwikkelomgeving\les2\obj\Debug\netcoreapp3.1\les2.AssemblyInfoInputs.cache
+D:\ENCORA\week13\SpecifiekeOntwikkelomgeving\les2\obj\Debug\netcoreapp3.1\les2.AssemblyInfo.cs
+D:\ENCORA\week13\SpecifiekeOntwikkelomgeving\les2\obj\Debug\netcoreapp3.1\les2.csproj.CoreCompileInputs.cache
+D:\ENCORA\week13\SpecifiekeOntwikkelomgeving\les2\obj\Debug\netcoreapp3.1\les2.dll
+D:\ENCORA\week13\SpecifiekeOntwikkelomgeving\les2\obj\Debug\netcoreapp3.1\les2.pdb
+D:\ENCORA\week13\SpecifiekeOntwikkelomgeving\les2\obj\Debug\netcoreapp3.1\les2.genruntimeconfig.cache

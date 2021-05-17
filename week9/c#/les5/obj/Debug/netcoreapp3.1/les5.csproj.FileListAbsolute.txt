@@ -1,0 +1,13 @@
+D:\ENCORA\week9\c#\les5\bin\Debug\netcoreapp3.1\les5.exe
+D:\ENCORA\week9\c#\les5\bin\Debug\netcoreapp3.1\les5.deps.json
+D:\ENCORA\week9\c#\les5\bin\Debug\netcoreapp3.1\les5.runtimeconfig.json
+D:\ENCORA\week9\c#\les5\bin\Debug\netcoreapp3.1\les5.runtimeconfig.dev.json
+D:\ENCORA\week9\c#\les5\bin\Debug\netcoreapp3.1\les5.dll
+D:\ENCORA\week9\c#\les5\bin\Debug\netcoreapp3.1\les5.pdb
+D:\ENCORA\week9\c#\les5\obj\Debug\netcoreapp3.1\les5.csprojAssemblyReference.cache
+D:\ENCORA\week9\c#\les5\obj\Debug\netcoreapp3.1\les5.AssemblyInfoInputs.cache
+D:\ENCORA\week9\c#\les5\obj\Debug\netcoreapp3.1\les5.AssemblyInfo.cs
+D:\ENCORA\week9\c#\les5\obj\Debug\netcoreapp3.1\les5.csproj.CoreCompileInputs.cache
+D:\ENCORA\week9\c#\les5\obj\Debug\netcoreapp3.1\les5.dll
+D:\ENCORA\week9\c#\les5\obj\Debug\netcoreapp3.1\les5.pdb
+D:\ENCORA\week9\c#\les5\obj\Debug\netcoreapp3.1\les5.genruntimeconfig.cache

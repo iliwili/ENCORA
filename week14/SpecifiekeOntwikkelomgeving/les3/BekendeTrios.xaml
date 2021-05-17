@@ -1,0 +1,29 @@
+﻿<Window x:Class="les3.BekendeTrios"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:les3"
+        mc:Ignorable="d"
+        Title="BekendeTrios" Height="450" Width="800">
+    <Grid VerticalAlignment="Top" Height="150">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0*"/>
+            <RowDefinition Height="4*"/>
+            <RowDefinition Height="5*"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Row="0" Grid.Column="0" x:Name="textBlock1" Grid.RowSpan="2" VerticalAlignment="Center" HorizontalAlignment="Center"></TextBlock>
+        <TextBlock Grid.Row="0" Grid.Column="1" x:Name="textBlock2" Grid.RowSpan="2" VerticalAlignment="Center" HorizontalAlignment="Center"></TextBlock>
+        <TextBlock Grid.Row="0" Grid.Column="2" x:Name="textBlock3" Grid.RowSpan="2" VerticalAlignment="Center" HorizontalAlignment="Center"></TextBlock>
+
+        <Button Grid.Row="2" Grid.Column="0" Click="ClickHarryPotter" Margin="20">Harry Potter</Button>
+        <Button Grid.Row="2" Grid.Column="1" Click="ClickStarwars" Margin="20">Starwars</Button>
+        <Button Grid.Row="2" Grid.Column="2" Click="ClickDucktales" Margin="20">Ducktales</Button>
+    </Grid>
+</Window>

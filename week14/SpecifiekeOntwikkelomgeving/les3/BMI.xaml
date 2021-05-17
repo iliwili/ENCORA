@@ -1,0 +1,30 @@
+﻿<Window x:Class="les3.BMI"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:les3"
+        mc:Ignorable="d"
+        Title="BMI" Height="450" Width="800">
+    <Grid Margin="50">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Row="0" Grid.ColumnSpan="2" VerticalAlignment="Center" HorizontalAlignment="Center" FontWeight="DemiBold" FontSize="25" x:Name="textBMI">BMI: </TextBlock>
+        <TextBlock Grid.Row="1" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="18" x:Name="textGewicht">Gewicht: </TextBlock>
+        <TextBlock Grid.Row="1" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="18" x:Name="textLengte">Lengte: </TextBlock>
+
+        <Button Grid.Row="2" Grid.Column="0" Width="200" Height="40" FontSize="14" Click="gewichtPlusOne">Gewicht + 1</Button>
+        <Button Grid.Row="2" Grid.Column="1" Width="200" Height="40" FontSize="14" Click="gewichtMinusOne">Gewicht - 1</Button>
+        <Button Grid.Row="3" Grid.Column="0" Width="200" Height="40" FontSize="14" Click="lengtePlusOne">Lengte + 1</Button>
+        <Button Grid.Row="3" Grid.Column="1" Width="200" Height="40" FontSize="14" Click="lengteMinusOne">Lengte - 1</Button>
+    </Grid>
+</Window>

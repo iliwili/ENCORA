@@ -1,0 +1,16 @@
+D:\ENCORA\week11\c#\les11\bin\Debug\net5.0\les11.exe
+D:\ENCORA\week11\c#\les11\bin\Debug\net5.0\les11.deps.json
+D:\ENCORA\week11\c#\les11\bin\Debug\net5.0\les11.runtimeconfig.json
+D:\ENCORA\week11\c#\les11\bin\Debug\net5.0\les11.runtimeconfig.dev.json
+D:\ENCORA\week11\c#\les11\bin\Debug\net5.0\les11.dll
+D:\ENCORA\week11\c#\les11\bin\Debug\net5.0\ref\les11.dll
+D:\ENCORA\week11\c#\les11\bin\Debug\net5.0\les11.pdb
+D:\ENCORA\week11\c#\les11\obj\Debug\net5.0\les11.csprojAssemblyReference.cache
+D:\ENCORA\week11\c#\les11\obj\Debug\net5.0\les11.GeneratedMSBuildEditorConfig.editorconfig
+D:\ENCORA\week11\c#\les11\obj\Debug\net5.0\les11.AssemblyInfoInputs.cache
+D:\ENCORA\week11\c#\les11\obj\Debug\net5.0\les11.AssemblyInfo.cs
+D:\ENCORA\week11\c#\les11\obj\Debug\net5.0\les11.csproj.CoreCompileInputs.cache
+D:\ENCORA\week11\c#\les11\obj\Debug\net5.0\les11.dll
+D:\ENCORA\week11\c#\les11\obj\Debug\net5.0\ref\les11.dll
+D:\ENCORA\week11\c#\les11\obj\Debug\net5.0\les11.pdb
+D:\ENCORA\week11\c#\les11\obj\Debug\net5.0\les11.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\ENCORA\week7\c#\oef5\oef5\bin\Debug\netcoreapp3.1\oef5.exe
+D:\ENCORA\week7\c#\oef5\oef5\bin\Debug\netcoreapp3.1\oef5.deps.json
+D:\ENCORA\week7\c#\oef5\oef5\bin\Debug\netcoreapp3.1\oef5.runtimeconfig.json
+D:\ENCORA\week7\c#\oef5\oef5\bin\Debug\netcoreapp3.1\oef5.runtimeconfig.dev.json
+D:\ENCORA\week7\c#\oef5\oef5\bin\Debug\netcoreapp3.1\oef5.dll
+D:\ENCORA\week7\c#\oef5\oef5\bin\Debug\netcoreapp3.1\oef5.pdb
+D:\ENCORA\week7\c#\oef5\oef5\obj\Debug\netcoreapp3.1\oef5.AssemblyInfoInputs.cache
+D:\ENCORA\week7\c#\oef5\oef5\obj\Debug\netcoreapp3.1\oef5.AssemblyInfo.cs
+D:\ENCORA\week7\c#\oef5\oef5\obj\Debug\netcoreapp3.1\oef5.csproj.CoreCompileInputs.cache
+D:\ENCORA\week7\c#\oef5\oef5\obj\Debug\netcoreapp3.1\oef5.dll
+D:\ENCORA\week7\c#\oef5\oef5\obj\Debug\netcoreapp3.1\oef5.pdb
+D:\ENCORA\week7\c#\oef5\oef5\obj\Debug\netcoreapp3.1\oef5.genruntimeconfig.cache

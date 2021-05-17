@@ -1,0 +1,46 @@
+﻿<Window x:Class="les6.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:les6"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <TabControl>
+            <TabItem Header="Bestellingen">
+                <StackPanel>
+                    <DataGrid x:Name="BestellingenGrid" AutoGenerateColumns="False" SelectionMode="Single">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="ID" Binding="{Binding ID}" />
+                            <DataGridTextColumn Header="DrankID" Binding="{Binding DrankID}" />
+                        </DataGrid.Columns>
+                    </DataGrid>
+                    <StackPanel Margin="0,15,0,0">
+                        <TextBlock>Drank</TextBlock>
+                        <ListBox x:Name="lbDrank"></ListBox>
+                        <Button x:Name="bAdd" Click="add_Bestellingen" Margin="0,10,0,0">Add</Button>
+                        <Button x:Name="bDelete" Click="delete_Bestellingen">Delete</Button>
+                    </StackPanel>
+                </StackPanel>
+            </TabItem>
+            <TabItem Header="Dranken">
+                <StackPanel>
+                    <DataGrid x:Name="DrankenGrid"  AutoGenerateColumns="False" CellEditEnding="DrankenGrid_Edited" SelectionMode="Single">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="ID" Binding="{Binding ID}" />
+                            <DataGridTextColumn Header="Merk" Binding="{Binding Merk}" />
+                        </DataGrid.Columns>
+                    </DataGrid>
+                    <StackPanel Margin="0,15,0,0">
+                        <TextBlock>Merk</TextBlock>
+                        <TextBox x:Name="dMerk"></TextBox>
+
+                        <Button x:Name="dAdd" Click="add_Dranken" Margin="0,10,0,0">Add</Button>
+                        <Button x:Name="dDelete" Click="delete_Dranken">Delete</Button>
+                    </StackPanel>
+                </StackPanel>
+            </TabItem>
+        </TabControl>
+    </StackPanel>
+</Window>
