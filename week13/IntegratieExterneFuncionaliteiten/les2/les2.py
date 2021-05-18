@@ -1,6 +1,7 @@
 import numpy as np
 
 arr1D = np.arange(0, 12)
+print(arr1D)
 # print('eerste:', arr1D[0])
 # print('derde:', arr1D[2])
 
