@@ -1,0 +1,24 @@
+﻿<Window x:Class="les8.Views.CircleGame"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:les8.Views"
+        mc:Ignorable="d"
+        Title="CircleGame" Height="600" Width="1000">
+    <Canvas Name="cnvs" MouseLeftButtonDown="ClickEvent" Background="DarkGray">
+        <Label Name="lblScore" FontWeight="Bold" FontSize="18" Content="Score: 0" Foreground="White" Canvas.Left="357" Canvas.ZIndex="3"></Label>
+        <Label Name="lblTimer" FontWeight="Bold" FontSize="18" Foreground="White" Content="0:59" Canvas.Left="457" Canvas.ZIndex="3"></Label>
+        <Label Name="lblAccuracy" FontWeight="Bold" FontSize="18" Foreground="White" Content="Accuracy: 0" Canvas.Left="520" Canvas.ZIndex="3"></Label>
+
+        <TextBox x:Name="txtUsername" FontSize="16" TextAlignment="Center" Width="150" Height="25" Canvas.Left="473" Canvas.Top="261"></TextBox>
+
+        <Button Name="bStartGame" Content="Start" FontWeight="Bold" FontSize="24" Width="180" Foreground="White" Background="DarkGray" Canvas.Left="391" Canvas.Top="310" Visibility="Visible" Click="ClickEvent_StartGame"></Button>
+        <Button Name="bGoBack" Content="Go Back" FontWeight="Bold" FontSize="24" Width="180" Foreground="White" Background="DarkGray" Canvas.Left="391" Canvas.Top="351" Visibility="Hidden" Click="ClickEvent_GoBack"></Button>
+        <Button Name="bCheckHighScores" Content="Check HighScore" FontWeight="Bold" FontSize="24" Width="200" Foreground="White" Background="DarkGray" Canvas.Left="380" Canvas.Top="350" Visibility="Visible" Click="ClickEvent_CheckHighScores"></Button>
+
+
+        <Label Name="lblEndGame" Content="GAME OVER" FontWeight="Bold" FontSize="24" Foreground="White" Canvas.Left="407" Canvas.Top="230" Visibility="Hidden"></Label>
+        <Label Name="lblEndScore" Content="Score: 0, Accuracy: 0%" FontWeight="Bold" Foreground="White" FontSize="24" Canvas.Left="347" Canvas.Top="260" Visibility="Hidden"></Label>
+    </Canvas>
+</Window>
